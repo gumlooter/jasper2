@@ -15,8 +15,8 @@ into the {body} of the default.hbs template -->
         <div class="site-header-content">
             
             <h1 class="site-title">
-                {% if site.author-image %}
-                    <img class="author-profile-image" src="{{ site.baseurl }}{{ site.author-image }}" alt="{{ site.title }}">
+                {% if site.author_image %}
+                    <img class="author-profile-image" src="{{ site.baseurl }}{{ site.author_image }}" alt="{{ site.title }}">
                 {% else %}
                     {{ site.title }}
                 {% endif %}

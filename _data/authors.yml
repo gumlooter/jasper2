@@ -29,7 +29,7 @@ gumlooter:
   picture: assets/images/andrei.jpg
   facebook: False
   twitter: gumlooter
-  cover: assets/images/andrei-cover.jpg
+  cover: assets/images/blog-cover.jpg
 john:
   username: john
   name: John O'Nolan

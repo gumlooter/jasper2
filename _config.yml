@@ -10,7 +10,7 @@ baseurl: /jasper2/
 
 # Website info
 title: Andrei Chenchik
-description: Hey, I’m Dale. I’m a digital designer & maker with over 10 years experience. I create simple, intuitive interfaces & products.
+description: ¡Hola! I’m a digital designer & maker with over 10 years experience. I create simple, intuitive interfaces & products.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -19,11 +19,11 @@ CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: gumlooter # replace by your username
-facebook: ghost # replace by your username
+facebook: False # replace by your username
 
 # Disqus
 disqus: False

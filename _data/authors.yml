@@ -19,6 +19,17 @@ hannah:
   facebook: False
   twitter: erisds
   cover: assets/images/hannah-cover.jpg
+gumlooter:
+  username: gumlooter
+  name: Andrei
+  location: Barcelona, Catalunya
+  url_full: http://chenchik.me/jasper2/about/
+  url: chenchik.me
+  bio: ¡Hola! I’m a digital designer & maker with over 10 years experience. I create simple, intuitive interfaces & products.
+  picture: assets/images/andrei.jpg
+  facebook: False
+  twitter: gumlooter
+  cover: assets/images/andrei-cover.jpg
 john:
   username: john
   name: John O'Nolan
